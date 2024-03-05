@@ -27,17 +27,22 @@ footer {
 
 nav {
     display: flex;
-    justify-content: left;
-    background-color: gold;
-    padding: 0px;
-    margin-top: 10px;
+    justify-content: center;
+    background-color: rgb(206, 175, 0);
+    padding: 10px;
+    margin-top: 0px;
 }
 nav a{
     color: black;
     text-decoration: none;
+    padding: 10px;
+    margin-top: 0px;
 }
 nav a:hover{
     text-decoration: underline;
 cursor: crosshair;
 color: white;
+}
+h2{
+    color: white;
 }
