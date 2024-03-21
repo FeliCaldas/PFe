@@ -1,0 +1,27 @@
+body{
+    background-color: powderblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+.head{
+    background-color: rgb(15, 36, 231);
+    color: white;
+    padding: 0px;
+}
+.cabecario{
+    text-align: center;
+     padding: 10px;
+     background-color: #c5a206
+}
+.nave{
+display: center;
+color: aliceblue;
+    
+}
+
+nav a{
+    color: white;
+}
