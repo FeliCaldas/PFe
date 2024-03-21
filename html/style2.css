@@ -23,6 +23,11 @@ section{
     width: calc(33.33% - 20px);
     margin-bottom: 20px;
     text-align: center;
+    background-color: blue;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
 }
 h2{
     margin-bottom: 10px;
